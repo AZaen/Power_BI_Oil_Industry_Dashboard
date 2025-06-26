@@ -11,6 +11,9 @@ This Power BI project explores global oil-related monetary flows using public OE
 - Treemap: Breakdown by flow
 - Dynamic slicers: Year, flow, product
 
+## 🖼️ Preview
+![Dashboard](https://github.com/user-attachments/assets/4242b4b9-d047-4296-aa85-2c353e6ab0c7)
+
 ## 📁 Files
 
 - `OilData.pbix`: Full Power BI file
