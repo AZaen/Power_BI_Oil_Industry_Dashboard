@@ -11,6 +11,11 @@ This Power BI project explores global oil-related monetary flows using public OE
 - Treemap: Breakdown by flow
 - Dynamic slicers: Year, flow, product
 
+## 📈 Key Insights
+- The -0.01% year-over-year change in global oil revenue represents remarkable stability given the period covers major geopolitical events, post-pandemic recovery, and economic uncertainties. This near-zero growth story is actually quite significant - it suggests the oil market found equilibrium despite external pressures.
+- Canada shows significant industrial production but relatively lower consumption patterns which frames it as a key supplier in the global energy supply chain.
+- Japan and South Korea present a contrast as they're heavily weighted toward consumption patterns rather than production, this is very telling about energy security in these countries.
+
 ## 🖼️ Preview
 ![Dashboard](https://github.com/user-attachments/assets/4242b4b9-d047-4296-aa85-2c353e6ab0c7)
 
